@@ -1,4 +1,4 @@
-# world
+# MCworld
 
 This project combines the creativity of Minecraft with the power of custom plugins to provide a unique and immersive gameplay experience. 
 In this repository, you will find all the necessary resources and information to set up your own Minecraft server with custom plugins and explore our custom-designed world. 
